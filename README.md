@@ -9,6 +9,10 @@ Here is an overview about me:
 - 🌱 I’m currently learning React.js and advanced Javascript.
 - :eyes: I am currently looking for Full-Stack Software Developer positions.
 
+My Online profiles:
+- **LinkedIn**: https://www.linkedin.com/in/tariqmnasim/
+- **Website**: https://sites.google.com/site/tariqmnasim
+- **StackOverflow**: https://stackoverflow.com/users/952526/
 
 <!--
 **tnasim/tnasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
