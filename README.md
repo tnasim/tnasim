@@ -14,6 +14,9 @@ My Online profiles:
 - **Website**: https://sites.google.com/site/tariqmnasim
 - **StackOverflow**: https://stackoverflow.com/users/952526/
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="tariqmnasim" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/tariqmnasim?trk=profile-badge">Tariq M Nasim</a></div>
+              
+
 <!--
 **tnasim/tnasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
