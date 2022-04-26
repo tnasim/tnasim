@@ -5,7 +5,7 @@ I have worked on different kinds of software development projects including serv
 
 Here is an overview about me:
 - :man_student: I’m currently doing my Masters in Computer Science at Arizona State University
-- 🔭 I am also working at ASU as a full-stack developer for the NSF-funded project Circuit Tutor.
+- 🔭 Until December 2021, I was working at ASU as a full-stack developer for the NSF-funded project Circuit Tutor.
 - 🌱 I’m currently learning React.js and advanced Javascript.
 - :eyes: I am currently looking for Full-Stack Software Developer positions.
 
