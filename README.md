@@ -4,10 +4,11 @@ I am a passionate programmer and experienced software developer. :man_technologi
 I have worked on different kinds of software development projects including server-side, web, API, desktop applications and mobile apps.
 
 Here is an overview about me:
-- :man_student: I’m currently doing my Masters in Computer Science at Arizona State University
+- I'm currently working Intel Corporation as a Software Engineer.
+- :man_student: I’m completed Masters in Computer Science from Arizona State University in May 2022
 - 🔭 Until December 2021, I was working at ASU as a full-stack developer for the NSF-funded project Circuit Tutor.
 - 🌱 I’m currently learning React.js and advanced Javascript.
-- :eyes: I am currently looking for Full-Stack Software Developer positions.
+<!-- - :eyes: I am currently looking for Full-Stack Software Developer positions. -->
 
 My Online profiles:
 - **LinkedIn**: https://www.linkedin.com/in/tariqmnasim/
