@@ -5,10 +5,8 @@ I have worked on different kinds of software development projects including serv
 
 Here is an overview about me:
 - I'm currently working at Intel Corporation as a Software Engineer.
-- :man_student: I’m completed Masters in Computer Science from Arizona State University in May 2022
+- :man_student: I’ve completed Masters in Computer Science from Arizona State University in May 2022
 - 🔭 Until December 2021, I was working at ASU as a full-stack developer for the NSF-funded project Circuit Tutor.
-- 🌱 I’m currently learning React.js and advanced Javascript.
-<!-- - :eyes: I am currently looking for Full-Stack Software Developer positions. -->
 
 My Online profiles:
 - **LinkedIn**: https://www.linkedin.com/in/tariqmnasim/
